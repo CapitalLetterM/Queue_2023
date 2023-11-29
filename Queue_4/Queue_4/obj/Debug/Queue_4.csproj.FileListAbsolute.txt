@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\bin\Debug\Queue_4.exe.config
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\bin\Debug\Queue_4.exe
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\bin\Debug\Queue_4.pdb
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.exe
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_4\Queue_4\obj\Debug\Queue_4.pdb

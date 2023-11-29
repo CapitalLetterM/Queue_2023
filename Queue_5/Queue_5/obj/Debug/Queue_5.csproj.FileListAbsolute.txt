@@ -1,0 +1,9 @@
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\bin\Debug\Queue_5.exe.config
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\bin\Debug\Queue_5.exe
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\bin\Debug\Queue_5.pdb
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.exe
+C:\Users\Lenovo-PC\source\repos\Queues_2023\Queue_5\Queue_5\obj\Debug\Queue_5.pdb
